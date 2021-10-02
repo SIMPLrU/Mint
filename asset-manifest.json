@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nft-dapp/static/css/main.b1d9528e.chunk.css",
+    "main.js": "/nft-dapp/static/js/main.a4f891eb.chunk.js",
+    "main.js.map": "/nft-dapp/static/js/main.a4f891eb.chunk.js.map",
+    "runtime-main.js": "/nft-dapp/static/js/runtime-main.90d5c4dc.js",
+    "runtime-main.js.map": "/nft-dapp/static/js/runtime-main.90d5c4dc.js.map",
+    "static/js/2.dba2db14.chunk.js": "/nft-dapp/static/js/2.dba2db14.chunk.js",
+    "static/js/2.dba2db14.chunk.js.map": "/nft-dapp/static/js/2.dba2db14.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/nft-dapp/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/nft-dapp/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/nft-dapp/index.html",
+    "static/css/main.b1d9528e.chunk.css.map": "/nft-dapp/static/css/main.b1d9528e.chunk.css.map",
+    "static/js/2.dba2db14.chunk.js.LICENSE.txt": "/nft-dapp/static/js/2.dba2db14.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/nft-dapp/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d5c4dc.js",
+    "static/js/2.dba2db14.chunk.js",
+    "static/css/main.b1d9528e.chunk.css",
+    "static/js/main.a4f891eb.chunk.js"
+  ]
+}
