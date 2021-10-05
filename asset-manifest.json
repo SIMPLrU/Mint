@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Mint/static/css/main.68b973dc.chunk.css",
-    "main.js": "/Mint/static/js/main.a4f891eb.chunk.js",
-    "main.js.map": "/Mint/static/js/main.a4f891eb.chunk.js.map",
+    "main.js": "/Mint/static/js/main.d3c47053.chunk.js",
+    "main.js.map": "/Mint/static/js/main.d3c47053.chunk.js.map",
     "runtime-main.js": "/Mint/static/js/runtime-main.f9ffe72e.js",
     "runtime-main.js.map": "/Mint/static/js/runtime-main.f9ffe72e.js.map",
-    "static/js/2.5adfd9d7.chunk.js": "/Mint/static/js/2.5adfd9d7.chunk.js",
-    "static/js/2.5adfd9d7.chunk.js.map": "/Mint/static/js/2.5adfd9d7.chunk.js.map",
+    "static/js/2.74953c93.chunk.js": "/Mint/static/js/2.74953c93.chunk.js",
+    "static/js/2.74953c93.chunk.js.map": "/Mint/static/js/2.74953c93.chunk.js.map",
     "static/js/3.a64233a7.chunk.js": "/Mint/static/js/3.a64233a7.chunk.js",
     "static/js/3.a64233a7.chunk.js.map": "/Mint/static/js/3.a64233a7.chunk.js.map",
     "index.html": "/Mint/index.html",
     "static/css/main.68b973dc.chunk.css.map": "/Mint/static/css/main.68b973dc.chunk.css.map",
-    "static/js/2.5adfd9d7.chunk.js.LICENSE.txt": "/Mint/static/js/2.5adfd9d7.chunk.js.LICENSE.txt",
+    "static/js/2.74953c93.chunk.js.LICENSE.txt": "/Mint/static/js/2.74953c93.chunk.js.LICENSE.txt",
     "static/media/reset.css": "/Mint/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.f9ffe72e.js",
-    "static/js/2.5adfd9d7.chunk.js",
+    "static/js/2.74953c93.chunk.js",
     "static/css/main.68b973dc.chunk.css",
-    "static/js/main.a4f891eb.chunk.js"
+    "static/js/main.d3c47053.chunk.js"
   ]
 }
